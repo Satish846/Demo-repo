@@ -1,3 +1,3 @@
 # Demo-repo
 Demo repository <br>
-Author-Satish
+Author-Satish (College)
